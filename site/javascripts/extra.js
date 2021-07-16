@@ -1,1 +1,0 @@
-document.getElementsByClassName("md-sidebar md-sidebar--secondary")[0].remove()
